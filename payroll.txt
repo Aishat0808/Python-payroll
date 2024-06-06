@@ -1,0 +1,10 @@
+Payslip for: John
+Gross Salary: 2.0
+Deductions: 2.0
+Net Salary: 0.0
+
+Payslip for: Bash
+Gross Salary: 1.0
+Deductions: 1.0
+Net Salary: 0.0
+
